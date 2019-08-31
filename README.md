@@ -1,0 +1,4 @@
+# Epilepsy warning
+
+## requirements:
+- keyboard
